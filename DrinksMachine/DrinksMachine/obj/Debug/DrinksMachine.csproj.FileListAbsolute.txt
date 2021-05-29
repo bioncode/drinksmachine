@@ -1,0 +1,10 @@
+C:\Users\dozen\source\repos\DrinksMachine\DrinksMachine\obj\Debug\DrinksMachine.csproj.AssemblyReference.cache
+C:\Users\dozen\source\repos\DrinksMachine\DrinksMachine\obj\Debug\DrinksMachine.DrinksMachineForm.resources
+C:\Users\dozen\source\repos\DrinksMachine\DrinksMachine\obj\Debug\DrinksMachine.Properties.Resources.resources
+C:\Users\dozen\source\repos\DrinksMachine\DrinksMachine\obj\Debug\DrinksMachine.csproj.GenerateResource.cache
+C:\Users\dozen\source\repos\DrinksMachine\DrinksMachine\obj\Debug\DrinksMachine.csproj.CoreCompileInputs.cache
+C:\Users\dozen\source\repos\DrinksMachine\DrinksMachine\bin\Debug\DrinksMachine.exe.config
+C:\Users\dozen\source\repos\DrinksMachine\DrinksMachine\bin\Debug\DrinksMachine.exe
+C:\Users\dozen\source\repos\DrinksMachine\DrinksMachine\bin\Debug\DrinksMachine.pdb
+C:\Users\dozen\source\repos\DrinksMachine\DrinksMachine\obj\Debug\DrinksMachine.exe
+C:\Users\dozen\source\repos\DrinksMachine\DrinksMachine\obj\Debug\DrinksMachine.pdb
